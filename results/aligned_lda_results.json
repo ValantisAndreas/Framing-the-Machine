@@ -1,0 +1,720 @@
+{
+    "timestamp": "2026-05-28 13:50:25",
+    "execution_time_seconds": 87.88,
+    "total_documents": 1087,
+    "era_document_counts": {
+        "Era 1 (2000-2011)": 470,
+        "Era 2 (2012-2018)": 355,
+        "Era 3 (2019-2025)": 262
+    },
+    "topic_mappings": {
+        "era1_to_era2": {
+            "0": 0,
+            "1": 1,
+            "2": 3,
+            "3": 2,
+            "4": 4
+        },
+        "era1_to_era3": {
+            "0": 0,
+            "1": 1,
+            "2": 2,
+            "3": 3,
+            "4": 4
+        }
+    },
+    "macro_topic_prevalences": [
+        {
+            "track_id": 0,
+            "prevalence_era1": 0.1728704201623862,
+            "prevalence_era2": 0.1604494260583671,
+            "prevalence_era3": 0.2034164290073566
+        },
+        {
+            "track_id": 1,
+            "prevalence_era1": 0.1476012498824672,
+            "prevalence_era2": 0.115153159416125,
+            "prevalence_era3": 0.173366934709298
+        },
+        {
+            "track_id": 2,
+            "prevalence_era1": 0.16945525598088948,
+            "prevalence_era2": 0.13625595910700358,
+            "prevalence_era3": 0.17991343652851066
+        },
+        {
+            "track_id": 3,
+            "prevalence_era1": 0.17443535948992211,
+            "prevalence_era2": 0.18273508235611796,
+            "prevalence_era3": 0.20074975024255726
+        },
+        {
+            "track_id": 4,
+            "prevalence_era1": 0.33563771448433516,
+            "prevalence_era2": 0.4054063730623866,
+            "prevalence_era3": 0.24255344951227736
+        }
+    ],
+    "topic_tracks": [
+        {
+            "track_id": 0,
+            "era1_topic_id": 0,
+            "era2_topic_id": 0,
+            "era3_topic_id": 0,
+            "era1_top_words": [
+                {
+                    "word": "robot",
+                    "weight": 0.03424582651547421
+                },
+                {
+                    "word": "automation",
+                    "weight": 0.01179120381801085
+                },
+                {
+                    "word": "billion",
+                    "weight": 0.008594263529364318
+                },
+                {
+                    "word": "chief",
+                    "weight": 0.008339198444373213
+                },
+                {
+                    "word": "robots",
+                    "weight": 0.007920982940814574
+                },
+                {
+                    "word": "company",
+                    "weight": 0.007397314824173469
+                },
+                {
+                    "word": "million",
+                    "weight": 0.007152172349755156
+                },
+                {
+                    "word": "abb",
+                    "weight": 0.006756509158123521
+                },
+                {
+                    "word": "vehicles",
+                    "weight": 0.006755520975575945
+                },
+                {
+                    "word": "research",
+                    "weight": 0.006716766873200513
+                }
+            ],
+            "era2_top_words": [
+                {
+                    "word": "robot",
+                    "weight": 0.031485721978381884
+                },
+                {
+                    "word": "algorithm",
+                    "weight": 0.015819803706045802
+                },
+                {
+                    "word": "human",
+                    "weight": 0.012456377413041913
+                },
+                {
+                    "word": "scientists",
+                    "weight": 0.007739526238452216
+                },
+                {
+                    "word": "automation",
+                    "weight": 0.007403518910888718
+                },
+                {
+                    "word": "start",
+                    "weight": 0.005745093101557627
+                },
+                {
+                    "word": "companies",
+                    "weight": 0.0048995672242514825
+                },
+                {
+                    "word": "video",
+                    "weight": 0.003960506554927765
+                },
+                {
+                    "word": "developed",
+                    "weight": 0.003957297751683666
+                },
+                {
+                    "word": "minute",
+                    "weight": 0.00395654068742736
+                }
+            ],
+            "era3_top_words": [
+                {
+                    "word": "chatgpt",
+                    "weight": 0.028877897837511456
+                },
+                {
+                    "word": "robot",
+                    "weight": 0.01195533306014689
+                },
+                {
+                    "word": "google",
+                    "weight": 0.010992883553998101
+                },
+                {
+                    "word": "algorithm",
+                    "weight": 0.010991354217356641
+                },
+                {
+                    "word": "chatbots",
+                    "weight": 0.010852634793057871
+                },
+                {
+                    "word": "human",
+                    "weight": 0.010012668152955484
+                },
+                {
+                    "word": "start",
+                    "weight": 0.008729803345825784
+                },
+                {
+                    "word": "openai",
+                    "weight": 0.0063443369903597
+                },
+                {
+                    "word": "tools",
+                    "weight": 0.006051341266362342
+                },
+                {
+                    "word": "company",
+                    "weight": 0.005533906911844853
+                }
+            ]
+        },
+        {
+            "track_id": 1,
+            "era1_topic_id": 1,
+            "era2_topic_id": 1,
+            "era3_topic_id": 1,
+            "era1_top_words": [
+                {
+                    "word": "google",
+                    "weight": 0.018833466557484958
+                },
+                {
+                    "word": "algorithm",
+                    "weight": 0.018101530957661885
+                },
+                {
+                    "word": "data",
+                    "weight": 0.017480768059476157
+                },
+                {
+                    "word": "automation",
+                    "weight": 0.010338402342294684
+                },
+                {
+                    "word": "mining",
+                    "weight": 0.009705821032986154
+                },
+                {
+                    "word": "robot",
+                    "weight": 0.009371428383827922
+                },
+                {
+                    "word": "use",
+                    "weight": 0.007863107258944782
+                },
+                {
+                    "word": "search",
+                    "weight": 0.0077995287141608164
+                },
+                {
+                    "word": "information",
+                    "weight": 0.00779203078373972
+                },
+                {
+                    "word": "used",
+                    "weight": 0.006772449743894377
+                }
+            ],
+            "era2_top_words": [
+                {
+                    "word": "robot",
+                    "weight": 0.015306907070502362
+                },
+                {
+                    "word": "algorithm",
+                    "weight": 0.01196543842886385
+                },
+                {
+                    "word": "automation",
+                    "weight": 0.011660562207542809
+                },
+                {
+                    "word": "york",
+                    "weight": 0.010127746013358273
+                },
+                {
+                    "word": "systems",
+                    "weight": 0.006661418905952281
+                },
+                {
+                    "word": "important",
+                    "weight": 0.006010037197553976
+                },
+                {
+                    "word": "web",
+                    "weight": 0.005915587181097768
+                },
+                {
+                    "word": "technology",
+                    "weight": 0.005808038508779951
+                },
+                {
+                    "word": "board",
+                    "weight": 0.005588752077888883
+                },
+                {
+                    "word": "companies",
+                    "weight": 0.00558585114326696
+                }
+            ],
+            "era3_top_words": [
+                {
+                    "word": "chatgpt",
+                    "weight": 0.02458852764629964
+                },
+                {
+                    "word": "algorithm",
+                    "weight": 0.018818455488863895
+                },
+                {
+                    "word": "amazon",
+                    "weight": 0.0072001634076987705
+                },
+                {
+                    "word": "technology",
+                    "weight": 0.007191461044613077
+                },
+                {
+                    "word": "artificial_intelligence",
+                    "weight": 0.007189132075792058
+                },
+                {
+                    "word": "google",
+                    "weight": 0.007185715041332109
+                },
+                {
+                    "word": "companies",
+                    "weight": 0.006035058431487111
+                },
+                {
+                    "word": "openai",
+                    "weight": 0.005185047732293059
+                },
+                {
+                    "word": "potential",
+                    "weight": 0.004873797219190275
+                },
+                {
+                    "word": "systems",
+                    "weight": 0.004873009666654512
+                }
+            ]
+        },
+        {
+            "track_id": 2,
+            "era1_topic_id": 2,
+            "era2_topic_id": 3,
+            "era3_topic_id": 2,
+            "era1_top_words": [
+                {
+                    "word": "robot",
+                    "weight": 0.03168510686997463
+                },
+                {
+                    "word": "space",
+                    "weight": 0.012267990092846112
+                },
+                {
+                    "word": "nasa",
+                    "weight": 0.010052640019156962
+                },
+                {
+                    "word": "robots",
+                    "weight": 0.010026983221815751
+                },
+                {
+                    "word": "says",
+                    "weight": 0.007878090486695043
+                },
+                {
+                    "word": "research",
+                    "weight": 0.006583549407983616
+                },
+                {
+                    "word": "team",
+                    "weight": 0.006241548343712979
+                },
+                {
+                    "word": "technology",
+                    "weight": 0.005842558107958907
+                },
+                {
+                    "word": "percent",
+                    "weight": 0.005749845299211755
+                },
+                {
+                    "word": "mission",
+                    "weight": 0.005640762981904624
+                }
+            ],
+            "era2_top_words": [
+                {
+                    "word": "robot",
+                    "weight": 0.02444708958292417
+                },
+                {
+                    "word": "automation",
+                    "weight": 0.014944126838014748
+                },
+                {
+                    "word": "jobs",
+                    "weight": 0.013040131848118653
+                },
+                {
+                    "word": "algorithm",
+                    "weight": 0.012097157383899052
+                },
+                {
+                    "word": "robots",
+                    "weight": 0.007503437385042932
+                },
+                {
+                    "word": "company",
+                    "weight": 0.00485947142270971
+                },
+                {
+                    "word": "humanity",
+                    "weight": 0.004378357452697185
+                },
+                {
+                    "word": "city",
+                    "weight": 0.004376637039496772
+                },
+                {
+                    "word": "online",
+                    "weight": 0.004376384063324686
+                },
+                {
+                    "word": "using",
+                    "weight": 0.004375449579180426
+                }
+            ],
+            "era3_top_words": [
+                {
+                    "word": "chatgpt",
+                    "weight": 0.02278938186439445
+                },
+                {
+                    "word": "openai",
+                    "weight": 0.018147244055937515
+                },
+                {
+                    "word": "chatbot",
+                    "weight": 0.014314791214928922
+                },
+                {
+                    "word": "tech",
+                    "weight": 0.011866721821747177
+                },
+                {
+                    "word": "google",
+                    "weight": 0.008772176096676642
+                },
+                {
+                    "word": "robot",
+                    "weight": 0.00860617246463331
+                },
+                {
+                    "word": "automation",
+                    "weight": 0.007631910387765521
+                },
+                {
+                    "word": "artificial_intelligence",
+                    "weight": 0.007567702205878268
+                },
+                {
+                    "word": "algorithm",
+                    "weight": 0.006503475975761947
+                },
+                {
+                    "word": "company",
+                    "weight": 0.00604723823728382
+                }
+            ]
+        },
+        {
+            "track_id": 3,
+            "era1_topic_id": 3,
+            "era2_topic_id": 2,
+            "era3_topic_id": 3,
+            "era1_top_words": [
+                {
+                    "word": "automation",
+                    "weight": 0.022472203066967476
+                },
+                {
+                    "word": "robot",
+                    "weight": 0.018937589979644846
+                },
+                {
+                    "word": "software",
+                    "weight": 0.016755624868131237
+                },
+                {
+                    "word": "jay",
+                    "weight": 0.00970806080714766
+                },
+                {
+                    "word": "company",
+                    "weight": 0.00868983064526505
+                },
+                {
+                    "word": "systems",
+                    "weight": 0.008089698247324069
+                },
+                {
+                    "word": "technology",
+                    "weight": 0.007731296340194473
+                },
+                {
+                    "word": "tokyo",
+                    "weight": 0.007081497142605473
+                },
+                {
+                    "word": "services",
+                    "weight": 0.00608349488659204
+                },
+                {
+                    "word": "million",
+                    "weight": 0.005958299691098488
+                }
+            ],
+            "era2_top_words": [
+                {
+                    "word": "automation",
+                    "weight": 0.022488500317379256
+                },
+                {
+                    "word": "robot",
+                    "weight": 0.022193934571430436
+                },
+                {
+                    "word": "algorithm",
+                    "weight": 0.014307827180660364
+                },
+                {
+                    "word": "says",
+                    "weight": 0.007601693203339103
+                },
+                {
+                    "word": "robots",
+                    "weight": 0.0076003019672819154
+                },
+                {
+                    "word": "facebook",
+                    "weight": 0.007334559686486811
+                },
+                {
+                    "word": "news",
+                    "weight": 0.006574000231804723
+                },
+                {
+                    "word": "economic",
+                    "weight": 0.005947149486868515
+                },
+                {
+                    "word": "report",
+                    "weight": 0.005127104537374519
+                },
+                {
+                    "word": "apple",
+                    "weight": 0.005124144006968781
+                }
+            ],
+            "era3_top_words": [
+                {
+                    "word": "openai",
+                    "weight": 0.023152904199317596
+                },
+                {
+                    "word": "automation",
+                    "weight": 0.01680865356963964
+                },
+                {
+                    "word": "sam_altman",
+                    "weight": 0.01396475993194856
+                },
+                {
+                    "word": "jobs",
+                    "weight": 0.008082764669857415
+                },
+                {
+                    "word": "executive",
+                    "weight": 0.00806730264768747
+                },
+                {
+                    "word": "tech",
+                    "weight": 0.007712796662712711
+                },
+                {
+                    "word": "chief",
+                    "weight": 0.007080249738837389
+                },
+                {
+                    "word": "algorithm",
+                    "weight": 0.007076635947382888
+                },
+                {
+                    "word": "robot",
+                    "weight": 0.007057601165185235
+                },
+                {
+                    "word": "company",
+                    "weight": 0.006094553404279849
+                }
+            ]
+        },
+        {
+            "track_id": 4,
+            "era1_topic_id": 4,
+            "era2_topic_id": 4,
+            "era3_topic_id": 4,
+            "era1_top_words": [
+                {
+                    "word": "robot",
+                    "weight": 0.059977694177837985
+                },
+                {
+                    "word": "robots",
+                    "weight": 0.009481432459482238
+                },
+                {
+                    "word": "computer",
+                    "weight": 0.008568808266182289
+                },
+                {
+                    "word": "article",
+                    "weight": 0.00729213565823693
+                },
+                {
+                    "word": "controlled",
+                    "weight": 0.004758491089643327
+                },
+                {
+                    "word": "university",
+                    "weight": 0.00472936243956819
+                },
+                {
+                    "word": "photos",
+                    "weight": 0.004613171566203966
+                },
+                {
+                    "word": "com",
+                    "weight": 0.004527209812555009
+                },
+                {
+                    "word": "city",
+                    "weight": 0.004233545491400763
+                },
+                {
+                    "word": "say",
+                    "weight": 0.004190695487090116
+                }
+            ],
+            "era2_top_words": [
+                {
+                    "word": "robot",
+                    "weight": 0.07184408235112658
+                },
+                {
+                    "word": "robots",
+                    "weight": 0.010874547968288453
+                },
+                {
+                    "word": "technology",
+                    "weight": 0.009472968777255729
+                },
+                {
+                    "word": "automation",
+                    "weight": 0.00844988418566631
+                },
+                {
+                    "word": "web",
+                    "weight": 0.006222710157273643
+                },
+                {
+                    "word": "help",
+                    "weight": 0.005968807386268995
+                },
+                {
+                    "word": "york",
+                    "weight": 0.005752615948498224
+                },
+                {
+                    "word": "google",
+                    "weight": 0.005723685644159041
+                },
+                {
+                    "word": "human",
+                    "weight": 0.005060486766127016
+                },
+                {
+                    "word": "algorithm",
+                    "weight": 0.0050238491010742015
+                }
+            ],
+            "era3_top_words": [
+                {
+                    "word": "robot",
+                    "weight": 0.03672121141963054
+                },
+                {
+                    "word": "automation",
+                    "weight": 0.012639103625496355
+                },
+                {
+                    "word": "chatgpt",
+                    "weight": 0.007566198500380454
+                },
+                {
+                    "word": "artificial_intelligence",
+                    "weight": 0.006404976851944883
+                },
+                {
+                    "word": "help",
+                    "weight": 0.005520523617114086
+                },
+                {
+                    "word": "technology",
+                    "weight": 0.005519360115562573
+                },
+                {
+                    "word": "cars",
+                    "weight": 0.0055166004867665515
+                },
+                {
+                    "word": "job",
+                    "weight": 0.004635971905196859
+                },
+                {
+                    "word": "deepmind",
+                    "weight": 0.0046324716727134865
+                },
+                {
+                    "word": "machines",
+                    "weight": 0.004628854605094574
+                }
+            ]
+        }
+    ]
+}
