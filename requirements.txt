@@ -1,7 +1,19 @@
+# Core data stack (used by all scripts)
 pandas>=1.5.0
 numpy>=1.20.0
+scipy>=1.7.0
+
+# RQ1 — topic modelling (analyze_data.py)
 scikit-learn>=1.0.0
+# gensim: LDA + c_v coherence sweep. RQ1 ONLY — RQ2 does not need it.
+# NOTE: gensim has no prebuilt wheel for Python 3.13/3.14 and fails to compile
+# from source there. Run RQ1 on Python <=3.12. For RQ2 alone, install from
+# rq2/requirements.txt instead (no gensim).
+gensim>=4.3.0; python_version < "3.13"
+
+# RQ2 — sentiment analysis (rq2/)
+vaderSentiment>=3.3.2
+
+# Plotting (all scripts)
 matplotlib>=3.5.0
 seaborn>=0.11.0
-scipy>=1.7.0
-vaderSentiment>=3.3.2
