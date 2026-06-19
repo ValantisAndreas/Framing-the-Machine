@@ -1,6 +1,6 @@
 # Framing the Machine
 
-*""Framing the Machine: A 25-Year Temporal and Sentiment Analysis of Artificial Intelligence Representation in Mainstream Journalism Across the US and EU (2000-2025)""*. 
+*""Framing the Machine: A 25-Year Temporal and Sentiment Analysis of Artificial Intelligence Representation in Mainstream Journalism Across the US (2000-2025)""*. 
 
 ## Prerequisites
 1. **Python** installed on your system.
